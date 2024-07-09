@@ -23,7 +23,7 @@ This is a password generation tool built using PyQt5, a Python GUI library. The 
 To use the password generator tool, follow these steps:
 
 1. **Clone the repository**:
-https://github.com/cookie-warrior/password-generator.git
+https://github.com/cookie-warrior/Password_Generation_Tool.git
 
 
 2. **Install dependencies** (assuming you have Python and pip installed):
